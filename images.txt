@@ -9,6 +9,6 @@ gitlab/gitlab-runner:alpine3.18
 --platform=linux/arm64
 
 gitlab/gitlab-runner:alpine3.18
---platform=linux/arm64
+--platform=linux/arm64 alpine:3.18
 
 alpine:3.18
