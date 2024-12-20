@@ -12,4 +12,4 @@ minio/minio:RELEASE.2024-07-29T22-14-52Z
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 alpine:3.18
---platform=linux/arm6 minio/minio:RELEASE.2024-07-29T22-14-52Z
+--platform=linux/arm64 minio/minio:RELEASE.2024-07-29T22-14-52Z
