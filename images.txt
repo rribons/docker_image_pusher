@@ -7,8 +7,9 @@
 #alpine:3.18
 #minio/minio:RELEASE.2024-07-29T22-14-52Z
 #maven:3.6.3-jdk-8-slim
-node:18
-nginx:1.27-alpine
+#node:18    
+#nginx:1.27-alpine
+redis:7.0-alpine
 
 
 
