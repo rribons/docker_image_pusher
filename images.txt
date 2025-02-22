@@ -9,7 +9,8 @@
 #maven:3.6.3-jdk-8-slim
 #node:18    
 #nginx:1.27-alpine
-redis:7.0-alpine
+#redis:7.0-alpine
+nacos/nacos-server:2.2.0
 
 
 
