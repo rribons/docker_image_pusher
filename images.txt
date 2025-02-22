@@ -10,7 +10,8 @@
 #node:18    
 #nginx:1.27-alpine
 #redis:7.0-alpine
-nacos/nacos-server:2.2.0
+#nacos/nacos-server:2.2.0
+nacos-server:2.2.0
 
 
 
