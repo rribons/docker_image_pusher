@@ -12,7 +12,8 @@
 #redis:7.0-alpine
 #nacos/nacos-server:v2.2.0  
 #emqx:5.7.2
-emqx/emqx:5.0.21
+#emqx/emqx:5.0.21
+nginx:alpine
 
 
 
