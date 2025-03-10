@@ -16,7 +16,7 @@
 #nginx:alpine
 #bitnami/postgresql:15 
 #bitnami/postgresql:15.12  
-thingsboard/tb-postgres:3.8.2
+thingsboard/tb-postgres:3.8.0
 
 
 #支持指定架构
