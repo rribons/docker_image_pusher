@@ -15,7 +15,8 @@
 #emqx/emqx:5.0.21
 #nginx:alpine
 #bitnami/postgresql:15 
-bitnami/postgresql:15.12
+#bitnami/postgresql:15.12  
+thingsboard/tb-postgres:3.8.2
 
 
 #支持指定架构
