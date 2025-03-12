@@ -23,6 +23,7 @@
 #emqx/emqx-enterprise:v3.0.0
 emqx/emqx-enterprise:5.6.1
 mongo:8.0.5
+mongo:7.0.17
 
 
 #支持指定架构
