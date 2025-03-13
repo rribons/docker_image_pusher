@@ -21,12 +21,14 @@
 #emqx/emqx-enterprise:5.0.0-alpine
 #emqx/emqx-enterprise:v2.4.3      
 #emqx/emqx-enterprise:v3.0.0
-emqx/emqx-enterprise:5.6.1
-mongo:8.0.5
-mongo:7.0.17
+#emqx/emqx-enterprise:5.6.1      
+#mongo:8.0.5
+#mongo:7.0.17
+jgraph/drawio:26.1.0
 
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 alpine:3.18
 #--platform=linux/arm64 minio/minio:RELEASE.2024-07-29T22-14-52Z
+--platform=linux/arm64 jgraph/drawio:26.1.0
