@@ -25,7 +25,8 @@
 #mongo:8.0.5
 #mongo:7.0.17
 #jgraph/drawio:26.1.0
-alpine:3.20
+#alpine:3.20
+openjdk:8-jdk-slim
 
 
 #支持指定架构
@@ -33,4 +34,6 @@ alpine:3.20
 #--platform=linux/arm64 alpine:3.18
 #--platform=linux/arm64 minio/minio:RELEASE.2024-07-29T22-14-52Z
 #--platform=linux/arm64 jgraph/drawio:26.1.0
---platform=linux/arm64 alpine:3.20
+#--platform=linux/arm64 alpine:3.20
+--platform=linux/arm64 openjdk:8-jdk-slim
+
