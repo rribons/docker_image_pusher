@@ -32,6 +32,7 @@
 #postgres:15
 #ubuntu:20.04
 gitlab-ce:18.0.5-ce.0
+postgres:12
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -45,3 +46,4 @@ gitlab-ce:18.0.5-ce.0
 #--platform=linux/arm64 postgres:15
 #--platform=linux/arm64 ubuntu:20.04
 --platform=linux/arm64 gitlab-ce:18.0.5-ce.0
+--platform=linux/arm64 postgres:15
