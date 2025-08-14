@@ -29,8 +29,9 @@
 #openjdk:8-jdk-slim
 #node:18-alpine
 #nacos/nacos-server:v2.5.1
-postgres:15
+#postgres:15
 #ubuntu:20.04
+gitlab/gitlab-ce
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -41,5 +42,6 @@ postgres:15
 #--platform=linux/arm64 openjdk:8-jdk-slim
 #--platform=linux/arm64 node:18-alpine
 #--platform=linux/arm64 nacos/nacos-server:v2.5.1
---platform=linux/arm64 postgres:15
+#--platform=linux/arm64 postgres:15
 #--platform=linux/arm64 ubuntu:20.04
+--platform=linux/arm64 gitlab/gitlab-ce
