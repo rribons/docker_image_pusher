@@ -31,7 +31,8 @@
 #nacos/nacos-server:v2.5.1
 #postgres:15
 #ubuntu:20.04
-postgres:12
+#postgres:12
+zlmediakit/zlmediakit:master
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -44,4 +45,5 @@ postgres:12
 #--platform=linux/arm64 nacos/nacos-server:v2.5.1
 #--platform=linux/arm64 postgres:15
 #--platform=linux/arm64 ubuntu:20.04
---platform=linux/arm64 postgres:12
+#--platform=linux/arm64 postgres:12
+--platform=linux/arm64 zlmediakit/zlmediakit:master
