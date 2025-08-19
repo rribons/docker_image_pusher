@@ -32,7 +32,8 @@
 #postgres:15
 #ubuntu:20.04
 #postgres:12
-zlmediakit/zlmediakit:master
+#zlmediakit/zlmediakit:master
+mpromonet/webrtc-streamer:v0.8.12-amd64
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
