@@ -33,7 +33,8 @@
 #ubuntu:20.04
 #postgres:12
 #zlmediakit/zlmediakit:master
-mpromonet/webrtc-streamer:v0.8.12-amd64
+#mpromonet/webrtc-streamer:v0.8.12-amd64
+gitlab/gitlab-ce:18.0.5-ce.0
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -47,4 +48,5 @@ mpromonet/webrtc-streamer:v0.8.12-amd64
 #--platform=linux/arm64 postgres:15
 #--platform=linux/arm64 ubuntu:20.04
 #--platform=linux/arm64 postgres:12
---platform=linux/arm64 zlmediakit/zlmediakit:master
+#--platform=linux/arm64 zlmediakit/zlmediakit:master
+--platform=linux/arm64 gitlab/gitlab-ce:18.0.5-ce.0
