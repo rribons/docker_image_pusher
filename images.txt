@@ -36,7 +36,8 @@
 #mpromonet/webrtc-streamer:v0.8.12-amd64
 #gitlab/gitlab-ce:18.0.5-ce.0
 #mysql:8.0.43
-openjdk:8-jre-slim
+#openjdk:8-jre-slim
+nodered/node-red:4.0.8
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -53,4 +54,5 @@ openjdk:8-jre-slim
 #--platform=linux/arm64 zlmediakit/zlmediakit:master
 #--platform=linux/arm64 gitlab/gitlab-ce:18.0.5-ce.0
 #--platform=linux/arm64 mysql:8.0.43
---platform=linux/arm64 openjdk:8-jre-slim
+#--platform=linux/arm64 openjdk:8-jre-slim
+--platform=linux/arm64 nodered/node-red:4.0.8
