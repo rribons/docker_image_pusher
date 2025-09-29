@@ -37,7 +37,8 @@
 #gitlab/gitlab-ce:18.0.5-ce.0
 #mysql:8.0.43
 #openjdk:8-jre-slim
-nodered/node-red:4.0.8
+#nodered/node-red:4.0.8
+alpine:3.20
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -55,4 +56,5 @@ nodered/node-red:4.0.8
 #--platform=linux/arm64 gitlab/gitlab-ce:18.0.5-ce.0
 #--platform=linux/arm64 mysql:8.0.43
 #--platform=linux/arm64 openjdk:8-jre-slim
---platform=linux/arm64 nodered/node-red:4.0.8
+#--platform=linux/arm64 nodered/node-red:4.0.8
+--platform=linux/arm64 alpine:3.20
