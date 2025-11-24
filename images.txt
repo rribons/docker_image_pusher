@@ -39,7 +39,8 @@
 #openjdk:8-jre-slim
 #nodered/node-red:4.0.8
 #alpine:3.20
-apache/apisix:3.0.0
+#apache/apisix:3.0.0
+redie:7.2.12
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -59,4 +60,5 @@ apache/apisix:3.0.0
 #--platform=linux/arm64 openjdk:8-jre-slim
 #--platform=linux/arm64 nodered/node-red:4.0.8
 #--platform=linux/arm64 alpine:3.20
---platform=linux/arm64 apache/apisix:3.0.0
+#--platform=linux/arm64 apache/apisix:3.0.0
+--platform=linux/arm64 redie:7.2.12
