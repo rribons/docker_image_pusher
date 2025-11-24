@@ -61,4 +61,4 @@ redie:7.2.12
 #--platform=linux/arm64 nodered/node-red:4.0.8
 #--platform=linux/arm64 alpine:3.20
 #--platform=linux/arm64 apache/apisix:3.0.0
---platform=linux/arm64 redie:7.2.12
+#--platform=linux/arm64 redie:7.2.12
