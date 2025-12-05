@@ -40,7 +40,7 @@
 #nodered/node-red:4.0.8
 #alpine:3.20
 #apache/apisix:3.0.0
-redie:7.2.12
+redis:7.2.11-alpine
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
@@ -61,4 +61,4 @@ redie:7.2.12
 #--platform=linux/arm64 nodered/node-red:4.0.8
 #--platform=linux/arm64 alpine:3.20
 #--platform=linux/arm64 apache/apisix:3.0.0
-#--platform=linux/arm64 redie:7.2.12
+--platform=linux/arm64 redis:7.2.11-alpine
