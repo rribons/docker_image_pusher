@@ -41,7 +41,8 @@
 #alpine:3.20
 #apache/apisix:3.0.0
 #redis:7.2.11-alpine
-mysql:8.1.0
+#mysql:8.1.0
+zlmediakit/zlmediakit:master
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
