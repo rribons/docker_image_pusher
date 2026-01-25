@@ -44,7 +44,7 @@
 #mysql:8.1.0
 #zlmediakit/zlmediakit:master
 #python:3.11-slim
-instrumentisto/coturn:4.6.2
+coturn/coturn:4.6.2
 
 
 
