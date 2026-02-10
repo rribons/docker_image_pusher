@@ -46,7 +46,8 @@
 #python:3.11-slim
 #coturn/coturn:4.6.2
 #jenkins/jenkins:lts
-fauria/vsftpd:latest
+#fauria/vsftpd:latest
+bitnami/kafka:3.7.0
 
 
 
