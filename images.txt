@@ -45,7 +45,8 @@
 #zlmediakit/zlmediakit:master
 #python:3.11-slim
 #coturn/coturn:4.6.2
-jenkins/jenkins:lts
+#jenkins/jenkins:lts
+fauria/vsftpd:latest
 
 
 
