@@ -48,8 +48,8 @@
 #jenkins/jenkins:lts
 #fauria/vsftpd:latest
 #bitnami/kafka:3.7.0
-itzg/minecraft-server
-
+#itzg/minecraft-server
+chigusa/bililive-go
 
 
 #支持指定架构
