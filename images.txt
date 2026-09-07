@@ -49,7 +49,8 @@
 #fauria/vsftpd:latest
 #bitnami/kafka:3.7.0
 #itzg/minecraft-server
-chigusa/bililive-go
+#chigusa/bililive-go
+snowdreamtech/frps:0.61.2
 
 
 #支持指定架构
